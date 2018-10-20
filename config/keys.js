@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost:27017/MERN'
+    mongoURI: 'mongodb://Divyam:<test123@ds027308.mlab.com:27308/mern'
 }
